@@ -75,7 +75,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240121145939437",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-21T19:59:39.437Z",
-	"dcterms:modified": "2024-01-21T19:59:39.437Z",
+	"dcterms:modified": "2024-01-21T20:10:39.123Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -106,7 +106,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q41225",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -134,7 +136,7 @@
             <byline>BY VIRGINIA WOOLF</byline>
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
-            <p><placeName>Big Ben</placeName> was striking as she stepped out into the street. It was eleven o'clock and
+            <p><placeName key="Big Ben" ref="http://www.wikidata.org/entity/Q41225">Big Ben</placeName> was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
