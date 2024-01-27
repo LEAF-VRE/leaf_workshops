@@ -40,85 +40,7 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240123170637643",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-23T22:06:37.643Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240123170637643#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240123170637643#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q189960",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><encodingDesc>
+      <encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -131,17 +53,17 @@
 
          <div>
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
-            <head><title>MRS DALLOWAY IN BOND STREET</title></head>
-            <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">VIRGINIA WOOLF</persName></byline>
+            <head>MRS DALLOWAY IN BOND STREET</head>
+            <byline>BY VIRGINIA WOOLF</byline>
 
-            <p><persName type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
+            <p>Mrs Dalloway said she would buy the gloves herself.</p>
             <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk the <placeName key="Westminster" ref="http://www.wikidata.org/entity/Q189960">streets of Westminster</placeName>. Big Ben too is nothing
-               but steel rods consumed by rust were it not for the care of <orgName>H. M.'s Office of Works</orgName>.
+               said about us than that we walk the streets of Westminster. Big Ben too is nothing
+               but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
@@ -151,21 +73,21 @@
             <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
                noses, you little demon! and there she was left on the kerb stretching her hand out,
                while Jimmy Dawes grinned on the further side.</p>
-            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, <eventName>so Scope Purvis, C. B., saw her as he hurried to his office</eventName>. She stiffened a little, waiting
-               for Durtnall's van to pass. <eventName>Big Ben struck the tenth</eventName>; struck the eleventh stroke. The
+            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting
+               for Durtnall's van to pass. Big Ben struck the tenth; struck the eleventh stroke. The
                leaden circles dissolved in the air. Pride held her erect, inheriting, handing on,
                acquainted with discipline and with suffering. How people suffered, how they
-               suffered, she thought, thinking of Mrs Foxcroft at <placeName>the Embassy</placeName> last night decked with
+               suffered, she thought, thinking of Mrs Foxcroft at the Embassy last night decked with
                jewels, eating her heart out, because that nice boy was dead, and now the old Manor
                House (Durtnall's van passed) must go to a cousin.</p>
-            <p>"Good morning to you!" said <persName>Hugh Whitbread</persName> raising his hat rather extravagantly by
+            <p>"Good morning to you!" said Hugh Whitbread raising his hat rather extravagantly by
                the china shop, for they had known each other as children. "Where are you off
                to?"</p>
             <pb n="21" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_02.jpg"/>
-            <p>"I love walking in <placeName>London</placeName>" said <persName>Mrs Dalloway</persName>. "Really it's better than walking in the
+            <p>"I love walking in London" said Mrs Dalloway. "Really it's better than walking in the
                country!"</p>
             <p>"We've just come up" said Hugh Whitbread. "Unfortunately to see doctors."</p>
-            <p>"<persName>Milly</persName>?" said Mrs Dalloway, instantly compassionate.</p>
+            <p>"Milly?" said Mrs Dalloway, instantly compassionate.</p>
             <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
             <p>"First rate!" said Clarissa.</p>
             <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
@@ -173,7 +95,7 @@
                thought Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how
                shy, like a brother—one would rather die than speak to one's brother—Hugh had always
                been, when he was at Oxford, and came over, and perhaps one of them (drat the thing!)
-               couldn't ride. How then could women sit in <orgName>Parliament</orgName>? How could they do things with
+               couldn't ride. How then could women sit in Parliament? How could they do things with
                men? For there is this extraordinarily deep instinct, something inside one; you can't
                get over it; it's no use trying; and men like Hugh respect it without our saying it,
                which is what one loves, thought Clarissa, in dear old Hugh.</p>
@@ -184,7 +106,7 @@
                stop dead still and bow to the Queen. The flag flew above the Palace. The King and
                Queen were back then. Dick had met her at lunch the other day—a thoroughly nice
                woman. It matters so much to the poor, thought Clarissa, and to the soldiers. A man
-               in bronze stood heroically on a pedestal with a gun on her left hand side—<eventName>the South African war</eventName>. It matters, thought Mrs Dalloway walking towards Buckingham Palace.
+               in bronze stood heroically on a pedestal with a gun on her left hand side—the South African war. It matters, thought Mrs Dalloway walking towards Buckingham Palace.
                There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
                character she thought; something inborn in the race; what Indians respected. The
                Queen went to hospitals, opened bazaars—the Queen of England, thought <persName>Clarissa</persName>,
@@ -227,7 +149,7 @@
                Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
                frontispiece of some book of memoirs spread wide in the bow window, Sir Joshua
                perhaps or Romney; arch, bright, demure; the sort of girl—like her own Elizabeth—the
-               only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, Soapy
+               only real sort of girl. And there was that absurd book, Soapy
                Sponge, which Jim used to quote by the yard; and Shakespeare's Sonnets. She knew them
                by heart. Phil and she had argued all day about the Dark Lady, and Dick had said
                straight out at dinner that night that he had never heard of her. Really, she had
