@@ -119,86 +119,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?title_annotation_20240213165210539",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-13T21:52:10.539Z",
-	"dcterms:modified": "2024-02-13T21:52:10.539Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?title_annotation_20240213165210539#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?title_annotation_20240213165210539#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/head/title"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "bf:Title",
-		"@id": "http://viaf.org/viaf/3520159477916427990000/",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	},
-	"cwrc:hasCertainty": "cwrc:high"
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 
          <projectDesc>
@@ -214,7 +134,7 @@
          <div>
             <pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" xml:space="default" n="20"/>
 
-            <head><title key="Woolf, Virginia, 1882-1941. | Mrs. Dalloway in Bond Street." ref="http://viaf.org/viaf/3520159477916427990000/" cert="high" level="m">MRS DALLOWAY IN BOND STREET</title></head>
+            <head>MRS DALLOWAY IN BOND STREET</head>
             <byline>BY VIRGINIA WOOLF</byline>
 
 
@@ -225,8 +145,8 @@
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
                said about us than that we walk the streets of Westminster. Big Ben too is nothing
-               but steel rods consumed by rust were it not for the care of <persName type="both">H. M</persName>.'s Office of Works.
-               Only for Mrs Dalloway the moment was complete; for Mrs Dalloway <date>June</date> was fresh. A
+               but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
+               Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
                of rooks falling from ever so high, down down through the October air—there is
@@ -256,7 +176,7 @@
                probably that, Hugh's manner had said so, said it perfectly—dear old Hugh,
                thought Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how
                shy, like a brother—one would rather die than speak to one's brother—Hugh had always
-               been, when he was at <placeName>Oxford</placeName>, and came over, and perhaps one of them (drat the thing!)
+               been, when he was at Oxford, and came over, and perhaps one of them (drat the thing!)
                couldn't ride. How then could women sit in <orgName>Parliament</orgName>? How could they do things with
                men? For there is this extraordinarily deep instinct, something inside one; you can't
                get over it; it's no use trying; and men like Hugh respect it without our saying it,
