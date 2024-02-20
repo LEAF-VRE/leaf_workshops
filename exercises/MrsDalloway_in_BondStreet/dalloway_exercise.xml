@@ -75,7 +75,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240220164558154",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-20T21:45:58.154Z",
-	"dcterms:modified": "2024-02-20T21:45:58.154Z",
+	"dcterms:modified": "2024-02-20T21:47:58.207Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -106,7 +106,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q359256",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -178,7 +180,7 @@
                there is this extraordinarily deep instinct, something inside one; you can't get over
                it; it's no use trying; and men like Hugh respect it without our saying it, which is
                what one loves, thought Clarissa, in dear old Hugh.</p>
-            <p>She had passed through the <placeName>Admiralty Arch</placeName> and saw at the end of the empty road with
+            <p>She had passed through the <placeName key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch</placeName> and saw at the end of the empty road with
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
                and the <persName type="both">old lady in horn spectacles</persName> and being told by Nanny to stop dead still and
