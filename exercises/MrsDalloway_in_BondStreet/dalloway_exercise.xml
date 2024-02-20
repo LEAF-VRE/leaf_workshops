@@ -57,7 +57,7 @@
          <div>
             <pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" xml:space="default" n="20"/>
 
-            <head>MRS DALLOWAY IN BOND STREET</head>
+            <head><title level="m">MRS DALLOWAY IN BOND STREET</title></head>
             <byline>BY <persName type="real">VIRGINIA WOOLF</persName></byline>
 
 
@@ -104,7 +104,7 @@
                there is this extraordinarily deep instinct, something inside one; you can't get over
                it; it's no use trying; and men like Hugh respect it without our saying it, which is
                what one loves, thought Clarissa, in dear old Hugh.</p>
-            <p>She had passed through the Admiralty Arch and saw at the end of the empty road with
+            <p>She had passed through the <placeName>Admiralty Arch</placeName> and saw at the end of the empty road with
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
                and the old lady in horn spectacles and being told by Nanny to stop dead still and
