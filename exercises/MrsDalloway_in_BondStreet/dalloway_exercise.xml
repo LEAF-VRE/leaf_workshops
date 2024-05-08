@@ -52,7 +52,7 @@
       <body>
 
          <div>
-            <pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" xml:space="default" n="20"/>
+            <pb cert="high" xml:space="default" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" n="20"/>
 
             <head><title level="m">MRS DALLOWAY IN BOND STREET</title></head>
             <byline>BY VIRGINIA WOOLF</byline>
