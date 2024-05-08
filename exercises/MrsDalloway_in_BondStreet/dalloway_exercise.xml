@@ -40,244 +40,7 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240220164846696",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-20T21:48:46.696Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240220164846696#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240220164846696#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q359256",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	},
-	"cwrc:hasPrecision": "cwrc:highCertainty"
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240220165038113",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-20T21:50:38.113Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240220165038113#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240220165038113#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q9439",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	},
-	"cwrc:hasCertainty": "cwrc:medium"
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?note_annotation_20240304091126807",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T14:11:26.807Z",
-	"dcterms:modified": "2024-03-04T14:11:26.807Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?note_annotation_20240304091126807#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?note_annotation_20240304091126807#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NoteScholarly",
-		"dc:format": "text/plain",
-		"rdf:value": "This whole short story is weirdly about Clarissa Dalloway's obsession with gloves."
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><encodingDesc>
+<encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -295,16 +58,16 @@
             <byline>BY <persName type="real">VIRGINIA WOOLF</persName></byline>
 
 
-            <p><persName type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.<note type="scholarNote">This whole short story is weirdly about Clarissa Dalloway's obsession with gloves.</note></p>
-            <p><objectName>Big Ben</objectName> was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
+            <p>Mrs Dalloway said she would buy the gloves herself.</p>
+            <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk <placeName>the streets of Westminster</placeName>. Big Ben too is nothing
-               but steel rods consumed by rust were it not for the care of <orgName>H. M.'s Office of Works</orgName>.
+               said about us than that we walk the streets of Westminster. Big Ben too is nothing
+               but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
-               happy childhood—and it was not to his daughters only that <persName>Justin Parry</persName> had seemed a
+               happy childhood—and it was not to his daughters only that Justin Parry had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
                of rooks falling from ever so high, down down through the October air—there is
                nothing to take the place of childhood. A leaf of mint brings it back; or a cup with
@@ -312,7 +75,7 @@
             <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
                noses, you little demon! and there she was left on the kerb stretching her hand out,
                while Jimmy Dawes grinned on the further side.</p>
-            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so <persName type="fictional">Scope Purvis, C. B</persName>., saw her as he hurried to his office. She stiffened a little, waiting
+            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting
                for Durtnall's van to pass. Big Ben struck the tenth; struck the eleventh stroke. The
                leaden circles dissolved in the air. Pride held her erect, inheriting, handing on,
                acquainted with discipline and with suffering. How people suffered, how they
@@ -338,15 +101,15 @@
                there is this extraordinarily deep instinct, something inside one; you can't get over
                it; it's no use trying; and men like Hugh respect it without our saying it, which is
                what one loves, thought Clarissa, in dear old Hugh.</p>
-            <p>She had passed through the <placeName key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch<precision match="@ref" precision="high"/></placeName> and saw at the end of the empty road with
+            <p>She had passed through the Admiralty Arch and saw at the end of the empty road with
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
-               and the <persName type="real" cert="medium" key="Victoria" ref="http://www.wikidata.org/entity/Q9439">old lady in horn spectacles</persName> and being told by Nanny to stop dead still and
-               bow to the Queen. The flag flew above the Palace. The <persName>King</persName> and <persName>Queen</persName> were back then.
+               and the old lady in horn spectacles and being told by Nanny to stop dead still and
+               bow to the Queen. The flag flew above the Palace. The King and Queen were back then.
                Dick had met her at lunch the other day—a thoroughly nice woman. It matters so much
                to the poor, thought Clarissa, and to the soldiers. A man in bronze stood heroically
-               on a pedestal with a gun on her left hand side—<eventName>the <placeName>South African</placeName> war</eventName>. It matters,
-               thought Mrs Dalloway walking towards <placeName>Buckingham Palace</placeName>. There it stood four-square,
+               on a pedestal with a gun on her left hand side—the South African war. It matters,
+               thought Mrs Dalloway walking towards Buckingham Palace. There it stood four-square,
                in the broad sunshine, uncompromising, plain. But it was character she thought;
                something inborn in the race; what Indians respected. The Queen went to hospitals,
                opened bazaars—the Queen of England, thought Clarissa, looking at the Palace. Already
@@ -485,7 +248,7 @@
                apologizing, to Clarissa.</p>
             <pb n="27" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_08.jpg"/>
             <p>But where had she seen the other lady?—elderly, with a frill under her chin; wearing
-               a black ribbon for <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">gold eyeglasses</objectName>; sensual, clever, like a <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default">Sargent drawing</objectName>. How one
+               a black ribbon for gold eyeglasses; sensual, clever, like a Sargent drawing. How one
                can tell from a voice when people are in the habit, thought Clarissa, of making other
                people—"It's a shade too tight" she said—obey. The shopwoman went off again. Clarissa
                was left waiting. Fear no more she repeated, playing her finger on the counter. Fear
