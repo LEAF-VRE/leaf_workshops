@@ -145,7 +145,7 @@
 				as Congress shall open its doors to us in person.</p>
 			<closer><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady
 						Stanton</persName> 
-				Isabella Beecher Hooker 
+				<persName key="Isabella Beecher Hooker" ref="http://www.wikidata.org/entity/Q13390410" cert="high" role="sgn" type="real">Isabella Beecher Hooker</persName> 
 				Elizabeth S. Bladen 
 				Olympia Brown 
 				Susan B. Anthony 
