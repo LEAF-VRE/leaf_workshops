@@ -22,7 +22,7 @@
                <licence>This eBook is for the use of anyone anywhere at no cost and with almost no
                   restrictions whatsoever. You may copy it, give it away or re-use it under the
                   terms of the Project Gutenberg License included with this eBook or online at
-                  www.gutenberg.org/license </licence>               
+                  www.gutenberg.org/license </licence>
             </availability>
             <ref>https://www.gutenberg.org/ebooks/63107</ref>
             <distributor>Hathi Trust: page images</distributor>
@@ -40,560 +40,8 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240311112328132",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-11T15:23:28.132Z",
-	"dcterms:modified": "2024-03-11T15:23:28.132Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240311112328132#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240311112328132#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/byline/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q40909",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240313111642732",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-13T15:16:42.732Z",
-	"dcterms:modified": "2024-03-13T15:16:42.732Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240313111642732#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240313111642732#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q9439",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313141415309",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-13T18:14:15.309Z",
-	"dcterms:modified": "2024-03-13T18:14:15.309Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313141415309#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313141415309#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q822607",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313141511831",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-13T18:15:11.831Z",
-	"dcterms:modified": "2024-03-13T18:15:11.831Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313141511831#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313141511831#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/placeName[2]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q42182",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240313141641268",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-13T18:16:41.268Z",
-	"dcterms:modified": "2024-03-13T18:16:41.268Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240313141641268#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240313141641268#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q93343",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313143141055",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-13T18:31:41.055Z",
-	"dcterms:modified": "2024-03-13T18:31:41.055Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313143141055#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313143141055#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[15]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q1124023",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313143209379",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-13T18:32:09.379Z",
-	"dcterms:modified": "2024-03-13T18:32:09.379Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/rachelmilio",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Rachel Milio"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313143209379#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/leaf_workshops2/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240313143209379#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://viaf.org/viaf/242822349/",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><encodingDesc>
+
+      <encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -605,11 +53,15 @@
       <body>
 
          <div>
-            <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
-            <head><title>MRS DALLOWAY IN BOND STREET</title></head>
-            <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">VIRGINIA WOOLF</persName></byline>
 
-            <p><persName type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
+            <pb cert="high" xml:space="default" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" n="20"/>
+
+            <head><title level="m">MRS DALLOWAY IN BOND STREET</title></head>
+            <byline>BY VIRGINIA WOOLF</byline>
+
+
+            <p>Mrs Dalloway said she would buy the gloves herself.</p>
+
             <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
@@ -626,8 +78,7 @@
             <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
                noses, you little demon! and there she was left on the kerb stretching her hand out,
                while Jimmy Dawes grinned on the further side.</p>
-            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope
-               Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting
+            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting
                for Durtnall's van to pass. Big Ben struck the tenth; struck the eleventh stroke. The
                leaden circles dissolved in the air. Pride held her erect, inheriting, handing on,
                acquainted with discipline and with suffering. How people suffered, how they
@@ -637,7 +88,7 @@
             <p>"Good morning to you!" said Hugh Whitbread raising his hat rather extravagantly by
                the china shop, for they had known each other as children. "Where are you off
                to?"</p>
-            <pb n="21" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_02.jpg"/>
+            <pb n="2100" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_02.jpg"/>
             <p>"I love walking in London" said Mrs Dalloway. "Really it's better than walking in the
                country!"</p>
             <p>"We've just come up" said Hugh Whitbread. "Unfortunately to see doctors."</p>
@@ -645,39 +96,38 @@
             <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
             <p>"First rate!" said <persName cert="high" evidence="internal" full="yes" instant="unknown" type="character" xml:space="default">Clarissa</persName>.</p>
             <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
-               probably that, Hugh's manner had said so, said it perfectly—dear old Hugh,
-               thought Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how
-               shy, like a brother—one would rather die than speak to one's brother—Hugh had always
-               been, when he was at Oxford, and came over, and perhaps one of them (drat the thing!)
-               couldn't ride. How then could women sit in Parliament? How could they do things with
-               men? For there is this extraordinarily deep instinct, something inside one; you can't
-               get over it; it's no use trying; and men like Hugh respect it without our saying it,
-               which is what one loves, thought Clarissa, in dear old Hugh.</p>
+               probably that, Hugh's manner had said so, said it perfectly—dear old Hugh, thought
+               Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how shy, like
+               a brother—one would rather die than speak to one's brother—Hugh had always been, when
+               he was at Oxford, and came over, and perhaps one of them (drat the thing!) couldn't
+               ride. How then could women sit in Parliament? How could they do things with men? For
+               there is this extraordinarily deep instinct, something inside one; you can't get over
+               it; it's no use trying; and men like Hugh respect it without our saying it, which is
+               what one loves, thought Clarissa, in dear old Hugh.</p>
             <p>She had passed through the Admiralty Arch and saw at the end of the empty road with
                its thin trees <persName key="Victoria" ref="http://www.wikidata.org/entity/Q9439" type="real">Victoria</persName>'s white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
-               <placeName key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607">Kensington Gardens</placeName> and the old lady in horn spectacles and being told by Nanny to
-               stop dead still and bow to the Queen. The flag flew above the Palace. The King and
-               Queen were back then. Dick had met her at lunch the other day—a thoroughly nice
-               woman. It matters so much to the poor, thought Clarissa, and to the soldiers. A man
-               in bronze stood heroically on a pedestal with a gun on her left hand side—the South
-               African war. It matters, thought Mrs Dalloway walking towards <placeName key="Buckingham Palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName>.
-               There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
-               character she thought; something inborn in the race; what Indians respected. The
-               Queen went to hospitals, opened bazaars—the Queen of England, thought Clarissa,
-               looking at the Palace. Already at this hour a motor car passed out at the gates;
-               soldiers saluted; the gates were shut. And Clarissa, crossing the road, entered the
-               Park, holding herself upright.</p>
-            <p>June had drawn out every leaf on the trees. The mothers of <pb n="22" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_03.jpg"/>
-               Westminster with mottled
-               breasts gave suck to their young. Quite respectable girls lay stretched on the grass.
-               An elderly man, stooping very stiffly, picked up a crumpled paper, spread it out flat
-               and flung it away. How horrible! Last night at the Embassy Sir Dighton had said "If I
-               want a fellow to hold my horse, I have only to put up my hand." But the religious
-               question is far more serious than the economic, Sir Dighton had said, which she
-               thought extraordinarily interesting, from a man like Sir Dighton. "Oh, the country
-               will never know what it has lost" he had said, talking, of his own accord, about dear
-               Jack Stewart.</p>
+
+               and the old lady in horn spectacles and being told by Nanny to stop dead still and
+               bow to the Queen. The flag flew above the Palace. The King and Queen were back then.
+               Dick had met her at lunch the other day—a thoroughly nice woman. It matters so much
+               to the poor, thought Clarissa, and to the soldiers. A man in bronze stood heroically
+               on a pedestal with a gun on her left hand side—the South African war. It matters,
+               thought Mrs Dalloway walking towards Buckingham Palace. There it stood four-square,
+               in the broad sunshine, uncompromising, plain. But it was character she thought;
+               something inborn in the race; what Indians respected. The Queen went to hospitals,
+               opened bazaars—the Queen of England, thought Clarissa, looking at the Palace. Already
+               at this hour a motor car passed out at the gates; soldiers saluted; the gates were
+               shut. And Clarissa, crossing the road, entered the Park, holding herself upright.</p>
+            <p>June had drawn out every leaf on the trees. The mothers of <pb n="22" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_03.jpg"/> Westminster with mottled breasts gave suck to their young. Quite respectable girls
+               lay stretched on the grass. An elderly man, stooping very stiffly, picked up a
+               crumpled paper, spread it out flat and flung it away. How horrible! Last night at the
+               Embassy Sir Dighton had said "If I want a fellow to hold my horse, I have only to put
+               up my hand." But the religious question is far more serious than the economic, Sir
+               Dighton had said, which she thought extraordinarily interesting, from a man like Sir
+               Dighton. "Oh, the country will never know what it has lost" he had said, talking, of
+               his own accord, about dear Jack Stewart.</p>
+
             <p>She mounted the little hill lightly. The air stirred with energy. Messages were
                passing from the Fleet to the Admiralty. <placeName key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName> and Arlington Street and the Mall
                seemed to chafe the very air in the Park and lift its leaves hotly, brilliantly, upon
@@ -689,35 +139,8 @@
                now can never mourn—how did it go?—a head grown grey. . . . From the contagion of the
                world's slow stain . . . have drunk their cup a round or two before. . . . From the
                contagion of the world's slow stain! She held herself upright.</p>
-            <p>But how Jack would have shouted! Quoting <persName key="Percy Bysshe Shelley" ref="http://www.wikidata.org/entity/Q93343">Shelley</persName>, in Piccadilly! "You want a pin," he
-               would have said. He hated frumps. "My God Clarissa! My God Clarissa!"—she could hear
-               him now at the <placeName key="Devonshire House (London)" ref="http://viaf.org/viaf/242822349/">Devonshire House</placeName> party, about poor Sylvia Hunt in her amber necklace
-               and that dowdy old silk. Clarissa held herself upright for she had spoken aloud and
-               now she was in Piccadilly, passing the house with the slender green columns, and the
-               balconies; passing club windows full of newspapers; passing old Lady Burdett Coutts'
-               house where the glazed white parrot used to hang; and Devonshire House, without its
-               gilt leopards; and Claridge's, where she must remember Dick wanted her to leave a
-               card on Mrs Jepson or she would be gone. Rich Americans can be very charming. There
-               was St James palace; like a child's game with bricks; and now—she had passed Bond
-               Street—she was by Hatchard's book shop. The <pb n="23" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_04.jpg"/>
-               stream was endless—endless—endless.
-               Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
-               frontispiece of some book of memoirs spread wide in the bow window, Sir Joshua
-               perhaps or Romney; arch, bright, demure; the sort of girl—like her own Elizabeth—the
-               only <emph>real </emph>sort of girl. And there was that absurd book, Soapy
-               Sponge, which Jim used to quote by the yard; and Shakespeare's Sonnets. She knew them
-               by heart. Phil and she had argued all day about the Dark Lady, and Dick had said
-               straight out at dinner that night that he had never heard of her. Really, she had
-               married him for that! He had never read Shakespeare! There must be some little cheap
-               book she could buy for Milly—Cranford of course! Was there ever anything so
-               enchanting as the cow in petticoats? If only people had that sort of humour, that
-               sort of self-respect now, thought Clarissa, for she remembered the broad pages; the
-               sentences ending; the characters—how one talked about them as if they were real. For
-               all the great things one must go to the past, she thought. From the contagion of the
-               world's slow stain. . . . Fear no more the heat o' the sun. . . . And now can never
-               mourn, can never mourn, she repeated, her eyes straying over the window; for it ran
-               in her head; the test of great poetry; the moderns had never written anything one
-               wanted to read about death, she thought; and turned.</p>
+
+
             <p>Omnibuses joined motor cars; motor cars vans; vans taxicabs; taxicabs motor cars—here
                was an open motor car with a girl, alone. Up till four, her feet tingling, I know,
                thought Clarissa, for the girl looked washed out, half asleep, in the corner of the
@@ -731,19 +154,17 @@
                narrow crooked street, the yellow banners; the thick notched telegraph wires
                stretched across the sky.</p>
             <p>A hundred years ago her great-great-grandfather, Seymour Parry, who ran away with
-               Conway's daughter, had walked down Bond <pb n="24" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_05.jpg"/>
-               Street. Down Bond Street the Parrys had
-               walked for a hundred years, and might have met the Dalloways (Leighs on the mother's
-               side) going up. Her father got his clothes from Hill's. There was a roll of cloth in
-               the window, and here just one jar on a black table, incredibly expensive; like the
-               thick pink salmon on the ice block at the fishmonger's. The jewels were
-               exquisite—pink and orange stars, paste, Spanish, she thought, and chains of old gold;
-               starry buckles, little brooches which had been worn on sea green satin by ladies with
-               high head-dresses. But no good looking! One must economize. She must go on past the
-               picture dealer's where one of the odd French pictures hung, as if people had thrown
-               confetti—pink and blue—for a joke. If you had lived with pictures (and it's the same
-               with books and music) thought Clarissa, passing the Aeolian Hall, you can't be taken
-               in by a joke.</p>
+               Conway's daughter, had walked down Bond <pb n="24" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_05.jpg"/> Street. Down Bond Street the Parrys had walked for a hundred years, and might have
+               met the Dalloways (Leighs on the mother's side) going up. Her father got his clothes
+               from Hill's. There was a roll of cloth in the window, and here just one jar on a
+               black table, incredibly expensive; like the thick pink salmon on the ice block at the
+               fishmonger's. The jewels were exquisite—pink and orange stars, paste, Spanish, she
+               thought, and chains of old gold; starry buckles, little brooches which had been worn
+               on sea green satin by ladies with high head-dresses. But no good looking! One must
+               economize. She must go on past the picture dealer's where one of the odd French
+               pictures hung, as if people had thrown confetti—pink and blue—for a joke. If you had
+               lived with pictures (and it's the same with books and music) thought Clarissa,
+               passing the Aeolian Hall, you can't be taken in by a joke.</p>
             <p>The river of Bond Street was clogged. There, like a Queen at a tournament, raised,
                regal, was Lady Bexborough. She sat in her carriage, upright, alone, looking through
                her glasses. The white glove was loose at her wrist. She was in black, quite shabby,
@@ -764,13 +185,12 @@
                "These really don't fit" said Clarissa. The shop girl looked at them. "Madame wears
                bracelets?" Clarissa spread out her fingers. "Perhaps it's my rings." And the girl
                took the grey gloves with her to the end of the counter.</p>
-            <p>Yes, thought Clarissa, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/>
-               years older. . . .
-               There was only one other customer, sitting sideways at the counter, her elbow poised,
-               her bare hand drooping, vacant; like a figure on a Japanese fan, thought Clarissa,
-               too vacant perhaps, yet some men would adore her. The lady shook her head sadly.
-               Again the gloves were too large. She turned round the glass. "Above the wrist" she
-               reproached the grey-headed woman; who looked and agreed.</p>
+            <p>Yes, thought Clarissa, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/> years older. . . . There was only one other customer, sitting sideways at the
+               counter, her elbow poised, her bare hand drooping, vacant; like a figure on a
+               Japanese fan, thought Clarissa, too vacant perhaps, yet some men would adore her. The
+               lady shook her head sadly. Again the gloves were too large. She turned round the
+               glass. "Above the wrist" she reproached the grey-headed woman; who looked and
+               agreed.</p>
             <p>They waited; a clock ticked; Bond Street hummed, dulled, distant; the woman went away
                holding gloves. "Above the wrist" said the lady, mournfully, raising her voice. And
                she would have to order chairs, ices, flowers, and cloak-room tickets, thought
