@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Penshurst</title>
+            <author>Ben Jonson</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+            <date>1611</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>            
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>To Penshurst</head>
+         <byline>Ben Jonson</byline>
+         <lg>
+            <l>Thou art not, Penshurst, built to envious show, </l>
+            <l>Of touch or marble; nor canst boast a row </l>
+            <l>Of polished pillars, or a roof of gold; </l>
+            <l>Thou hast no lantern, whereof tales are told, </l>
+            <l>Or stair, or courts; but stand’st an ancient pile, </l>
+            <l>And, these grudged at, art reverenced the while. </l>
+            <l>Thou joy’st in better marks, of soil, of air, </l>
+            <l>Of wood, of water; therein thou art fair. </l>
+            <l>Thou hast thy walks for health, as well as sport; </l>
+            <l>Thy mount, to which the dryads do resort, </l>
+            <l>Where Pan and Bacchus their high feasts have made, </l>
+            <l>Beneath the broad beech and the chestnut shade; </l>
+            <l>That taller tree, which of a nut was set </l>
+            <l>At his great birth where all the Muses met. </l>
+            <l>There in the writhèd bark are cut the names </l>
+            <l>Of many a sylvan, taken with his flames; </l>
+            <l>And thence the ruddy satyrs oft provoke </l>
+            <l>The lighter fauns to reach thy Lady’s Oak. </l>
+            <l>Thy copse too, named of Gamage, thou hast there, </l>
+            <l>That never fails to serve thee seasoned deer </l>
+            <l>When thou wouldst feast or exercise thy friends. </l>
+            <l>The lower land, that to the river bends, </l>
+            <l>Thy sheep, thy bullocks, kine, and calves do feed; </l>
+            <l>The middle grounds thy mares and horses breed. </l>
+            <l>Each bank doth yield thee conies; and the tops, </l>
+            <l>Fertile of wood, Ashore and Sidney’s copse, </l>
+            <l>To crown thy open table, doth provide </l>
+            <l>The purpled pheasant with the speckled side; </l>
+            <l>The painted partridge lies in every field, </l>
+            <l>And for thy mess is willing to be killed. </l>
+            <l>And if the high-swollen Medway fail thy dish, </l>
+            <l>Thou hast thy ponds, that pay thee tribute fish, </l>
+            <l>Fat aged carps that run into thy net, </l>
+            <l>And pikes, now weary their own kind to eat, </l>
+            <l>As loath the second draught or cast to stay, </l>
+            <l>Officiously at first themselves betray; </l>
+            <l>Bright eels that emulate them, and leap on land </l>
+            <l>Before the fisher, or into his hand. </l>
+            <l>Then hath thy orchard fruit, thy garden flowers, </l>
+            <l>Fresh as the air, and new as are the hours. </l>
+            <l>The early cherry, with the later plum, </l>
+            <l>Fig, grape, and quince, each in his time doth come; </l>
+            <l>The blushing apricot and woolly peach </l>
+            <l>Hang on thy walls, that every child may reach. </l>
+            <l>And though thy walls be of the country stone, </l>
+            <l>They’re reared with no man’s ruin, no man’s groan; </l>
+            <l>There’s none that dwell about them wish them down; </l>
+            <l>But all come in, the farmer and the clown, </l>
+            <l>And no one empty-handed, to salute </l>
+            <l>Thy lord and lady, though they have no suit. </l>
+            <l>Some bring a capon, some a rural cake, </l>
+            <l>Some nuts, some apples; some that think they make </l>
+            <l>The better cheeses bring them, or else send </l>
+            <l>By their ripe daughters, whom they would commend </l>
+            <l>This way to husbands, and whose baskets bear </l>
+            <l>An emblem of themselves in plum or pear. </l>
+            <l>But what can this (more than express their love) </l>
+            <l>Add to thy free provisions, far above </l>
+            <l>The need of such? whose liberal board doth flow </l>
+            <l>With all that hospitality doth know; </l>
+            <l>Where comes no guest but is allowed to eat, </l>
+            <l>Without his fear, and of thy lord’s own meat; </l>
+            <l>Where the same beer and bread, and selfsame wine, </l>
+            <l>This is his lordship’s shall be also mine, </l>
+            <l>And I not fain to sit (as some this day </l>
+            <l>At great men’s tables), and yet dine away. </l>
+            <l>Here no man tells my cups; nor, standing by, </l>
+            <l>A waiter doth my gluttony envy, </l>
+            <l>But gives me what I call, and lets me eat; </l>
+            <l>He knows below he shall find plenty of meat. </l>
+            <l>The tables hoard not up for the next day; </l>
+            <l>Nor, when I take my lodging, need I pray </l>
+            <l>For fire, or lights, or livery; all is there, </l>
+            <l>As if thou then wert mine, or I reigned here: </l>
+            <l>There’s nothing I can wish, for which I stay. </l>
+            <l>That found King James when, hunting late this way </l>
+            <l>With his brave son, the prince, they saw thy fires </l>
+            <l>Shine bright on every hearth, as the desires </l>
+            <l>Of thy Penates had been set on flame </l>
+            <l>To entertain them; or the country came </l>
+            <l>With all their zeal to warm their welcome here. </l>
+            <l>What (great I will not say, but) sudden cheer </l>
+            <l>Didst thou then make ’em! and what praise was heaped </l>
+            <l>On thy good lady then, who therein reaped </l>
+            <l>The just reward of her high housewifery; </l>
+            <l>To have her linen, plate, and all things nigh, </l>
+            <l>When she was far; and not a room but dressed </l>
+            <l>As if it had expected such a guest! </l>
+            <l>These, Penshurst, are thy praise, and yet not all. </l>
+            <l>Thy lady’s noble, fruitful, chaste withal. </l>
+            <l>His children thy great lord may call his own, </l>
+            <l>A fortune in this age but rarely known. </l>
+            <l>They are, and have been, taught religion; thence </l>
+            <l>Their gentler spirits have sucked innocence. </l>
+            <l>Each morn and even they are taught to pray, </l>
+            <l>With the whole household, and may, every day, </l>
+            <l>Read in their virtuous parents’ noble parts </l>
+            <l>The mysteries of manners, arms, and arts. </l>
+            <l>Now, Penshurst, they that will proportion thee </l>
+            <l>With other edifices, when they see </l>
+            <l>Those proud, ambitious heaps, and nothing else, </l>
+            <l>May say their lords have built, but thy lord dwells.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
