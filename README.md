@@ -1,3 +1,3 @@
-# LEAF Workshops Repo Archived!
+# LEAF and LEAF Commons Workshops
 
-Materials from old LEAF Workshops workshops
+This repository includes workshop materials for LEAF Commons training sessions offered by members of the LEAF team. Materials are available for use by general audiences.
